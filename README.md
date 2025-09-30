@@ -1,4 +1,4 @@
-# 📄 Mvc CV Login & Admin Paneli
+# 📄 Mvc CV  & Admin Paneli
 
 Bu proje **Asp.Net MVC** kullanılarak hazırlanmış bir CV sitesi ve admin paneli uygulamasıdır.  
 Kullanıcı giriş ekranı, admin paneli ve CV görüntüleme bölümlerinden oluşmaktadır.  
